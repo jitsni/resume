@@ -1,3 +1,5 @@
-latex resume.tex
+#latex resume.tex
 #dvips resume.dvi
-dvipdf resume.dvi
+#dvipdf resume.dvi
+
+pdflatex resume.tex
